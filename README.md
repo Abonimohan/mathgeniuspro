@@ -8,17 +8,7 @@ MathGenius Pro is an interactive Streamlit-based web app for solving, differenti
 - AI voice assistant via pyttsx3
 - Modern dark UI with LaTeX rendering
 
-## Installation
 
-```bash
-pip install -r requirements.txt
-```
-
-## Run
-
-```bash
-streamlit run mathgenius.py
-```
 
 ## Notes
 - License deployed by Aboni Mohan (subjected to copyright issue)
